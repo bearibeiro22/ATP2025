@@ -1,0 +1,4 @@
+- o objetivo do trabalho 
+- os ficheiros criados
+- como executar/testar 
+- autor
